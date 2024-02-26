@@ -1,0 +1,2 @@
+{"time":"2024-02-26T15:44:31.147377696+01:00","level":"INFO","source":{"function":"main.main.withLogger.func1","file":"/home/henry/go/src/120_Hassane_multi/rep26_MW2/exe/main.go","line":36},"msg":"Log() withLogger","Info":13,"reqId":1,"duration":20643,"reqMethod":"GET","reqURL":"/home"}
+{"time":"2024-02-26T15:44:37.298925919+01:00","level":"INFO","source":{"function":"main.main.withLogger.func2","file":"/home/henry/go/src/120_Hassane_multi/rep26_MW2/exe/main.go","line":36},"msg":"Log() withLogger","Info":13,"reqId":2,"duration":75702,"reqMethod":"GET","reqURL":"/api"}
